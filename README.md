@@ -4,26 +4,6 @@ This repository contains the processed UCI Heart Disease dataset and Python scri
 
 ---
 
-## Repository Structure
-
-```
-.
-├── data/
-│   ├── (processed dataset files: cleaned/encoded tables, labels, splits, etc.)
-├── B6.py
-├── B6_repeated_holdout_stats.py
-├── B6_splitratio_stability.py
-├── B6_option2_cv.py
-└── (optional) outputs/
-    ├── tables/
-    ├── figures/
-    └── logs/
-```
-
-> Note: File/folder names may differ slightly depending on your local setup. The key scripts are documented below.
-
----
-
 ## Requirements
 
 * Python 3.9+ recommended
