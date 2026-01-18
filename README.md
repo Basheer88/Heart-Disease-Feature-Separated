@@ -10,7 +10,7 @@ This repository contains the processed UCI Heart Disease dataset and Python scri
 * Common packages used in this project:
 
   * `numpy`, `pandas`, `scikit-learn`
-  * `torch` (if the Channel-2 DNN uses PyTorch)
+  * `torch` (DNN uses PyTorch)
   * `xgboost` (for XGBoost)
   * `matplotlib` (optional, if any plots are enabled)
 
