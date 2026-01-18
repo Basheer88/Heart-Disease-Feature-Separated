@@ -16,11 +16,7 @@ This repository contains the processed UCI Heart Disease dataset and Python scri
 
 ### Quick install
 
-```bash
-pip install -r requirements.txt
-```
-
-If you do not have a `requirements.txt`, install the core dependencies manually:
+Install the core dependencies manually:
 
 ```bash
 pip install numpy pandas scikit-learn xgboost torch matplotlib
